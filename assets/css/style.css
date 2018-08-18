@@ -1,0 +1,22 @@
+#bgpic{
+    background: url("assets/images/sandpaper.png")repeat;
+}
+header{
+    background-color: #ffffff;
+    border-color: #cccccc;
+}
+
+h1{
+    background-color: #4aaaaf;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.content{
+    border-color: #dddddd;
+    background-color: #4aaa5;
+    font-family: Arial, helvetica, Helvetica Neue, sans-serif;
+    width:960px;
+}
+#charlie{
+   float: left;
+}
