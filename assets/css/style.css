@@ -216,3 +216,11 @@ body {
     border: 0 none;
   }
   
+/* media queries */
+@media screen and (max-width: 768px) {
+
+}
+
+@media screen and (max-width: 480px) {
+    
+}
