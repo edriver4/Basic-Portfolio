@@ -1,14 +1,29 @@
-#bgpic{
-    background: url("assets/images/sandpaper.png")repeat;
+.container2{
+    background-image: url("../images/cork-wallet.png");
+    background-repeat: repeat;
 }
-header{
+
+
+.container1{
     background-color: #ffffff;
     border-color: #cccccc;
 }
 
-h1{
+.logo{
     background-color: #4aaaaf;
-    font-family: Georgia, 'Times New Roman', Times, serif
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:#ffffff;
+    float: left;
+    margin-left: 125px;
+    height:75px;
+    width: 450px;
+    font-weight: bold;
+    vertical-align: middle;
+}
+
+.nav{
+    float:right;
+    
 }
 
 .content{
@@ -16,7 +31,5 @@ h1{
     background-color: #4aaa5;
     font-family: Arial, helvetica, Helvetica Neue, sans-serif;
     width:960px;
-}
-#charlie{
-   float: left;
+    margin: 0px;
 }
